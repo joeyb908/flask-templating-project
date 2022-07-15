@@ -13,7 +13,7 @@ I learned quite a few things that I initially thought would be difficult but Fla
 - Serve static files including stylesheets and images
 
 ### How to setup?
-1. Install the Flask dependency located at the top. In PyCharm, it's as simple as hover over 
+1. Install the Flask dependency located at the top. In PyCharm, it's as simple as hovering over 
 >flask
 
 then clicking 
